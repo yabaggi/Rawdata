@@ -1,1 +1,193 @@
-
+{
+  "apis": [
+    {
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org",
+      "free": "fully free",
+      "use": "Maps, routes and place data",
+      "developer_usage": "Build map based apps, find coordinates, show map tiles and create navigation tools."
+    },
+    {
+      "name": "World Bank API",
+      "url": "https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-about-the-indicators-api",
+      "free": "fully free",
+      "use": "Global economic and social indicators",
+      "developer_usage": "Create dashboards for country stats, compare nations or analyze trends."
+    },
+    {
+      "name": "Open Library",
+      "url": "https://openlibrary.org/developers/api",
+      "free": "fully free",
+      "use": "Books, authors and ISBN info",
+      "developer_usage": "Build apps that search books, fetch author details or link ISBNs."
+    },
+    {
+      "name": "NASA API",
+      "url": "https://api.nasa.gov",
+      "free": "free with key",
+      "use": "Space images and astronomy data",
+      "developer_usage": "Show daily space photos, display planetary info or build education tools."
+    },
+    {
+      "name": "TimeZoneDB",
+      "url": "https://timezonedb.com/api",
+      "free": "good free tier",
+      "use": "Time zone lookup",
+      "developer_usage": "Convert time zones, show local time for users or build scheduling tools."
+    },
+    {
+      "name": "Unsplash API",
+      "url": "https://unsplash.com/developers",
+      "free": "free with rules",
+      "use": "High quality images",
+      "developer_usage": "Fetch free photos for your app, galleries, prototypes or UI placeholders."
+    },
+    {
+      "name": "FreeDictionaryAPI",
+      "url": "https://dictionaryapi.dev",
+      "free": "fully free",
+      "use": "Definitions and synonyms",
+      "developer_usage": "Make dictionary apps, grammar tools or word games."
+    },
+    {
+      "name": "QRServer API",
+      "url": "https://goqr.me/api",
+      "free": "fully free",
+      "use": "QR code generation",
+      "developer_usage": "Create QR codes for text, URLs or app login flows."
+    },
+    {
+      "name": "OpenWeather",
+      "url": "https://openweathermap.org/api",
+      "free": "limited free tier",
+      "use": "Current weather and forecast",
+      "developer_usage": "Show weather in dashboards, widgets or mobile apps."
+    },
+    {
+      "name": "WeatherAPI",
+      "url": "https://www.weatherapi.com",
+      "free": "limited free tier",
+      "use": "Weather and astronomy data",
+      "developer_usage": "Add weather cards, sunrise info or moon phases to your app."
+    },
+    {
+      "name": "Visual Crossing",
+      "url": "https://www.visualcrossing.com/weather-api",
+      "free": "limited free plan",
+      "use": "Weather and history data",
+      "developer_usage": "Build analytics or historical charts for weather trends."
+    },
+    {
+      "name": "GNews",
+      "url": "https://gnews.io",
+      "free": "limited free tier",
+      "use": "News search",
+      "developer_usage": "Display fresh news articles in dashboards or feeds."
+    },
+    {
+      "name": "Guardian API",
+      "url": "https://open-platform.theguardian.com",
+      "free": "free for personal use",
+      "use": "Guardian newspaper content",
+      "developer_usage": "Build news apps, search articles or show headlines."
+    },
+    {
+      "name": "Currents API",
+      "url": "https://currentsapi.services",
+      "free": "free tier",
+      "use": "Breaking news",
+      "developer_usage": "Create live news widgets or event trackers."
+    },
+    {
+      "name": "Football Data Org",
+      "url": "https://www.football-data.org",
+      "free": "free tier",
+      "use": "Football leagues and match data",
+      "developer_usage": "Build match trackers, stats boards or team ranking apps."
+    },
+    {
+      "name": "API Football",
+      "url": "https://www.api-football.com",
+      "free": "small free tier",
+      "use": "Football statistics",
+      "developer_usage": "Show fixtures, live scores or player info in sports apps."
+    },
+    {
+      "name": "GeoNames",
+      "url": "https://www.geonames.org/export/web-services.html",
+      "free": "small free tier",
+      "use": "Place names and coordinates",
+      "developer_usage": "Autocomplete cities, find country info or map user locations."
+    },
+    {
+      "name": "Marvel API",
+      "url": "https://developer.marvel.com",
+      "free": "free with rate limits",
+      "use": "Comics and character data",
+      "developer_usage": "Build apps showing Marvel characters, comics or timelines."
+    },
+    {
+      "name": "StormGlass",
+      "url": "https://stormglass.io",
+      "free": "tiny free tier",
+      "use": "Marine weather",
+      "developer_usage": "Boat apps, surf apps or ocean tracking tools."
+    },
+    {
+      "name": "Gemini API",
+      "url": "https://ai.google.dev",
+      "free": "free tokens each month",
+      "use": "AI text, chat and vision",
+      "developer_usage": "Make chatbots, content tools or vision based apps."
+    },
+    {
+      "name": "HuggingFace API",
+      "url": "https://huggingface.co/docs/api-inference",
+      "free": "some models free",
+      "use": "AI models and NLP",
+      "developer_usage": "Run summaries, translations, embeddings or text generation."
+    },
+    {
+      "name": "TMDB API",
+      "url": "https://developer.themoviedb.org",
+      "free": "free with key",
+      "use": "Movies and series info",
+      "developer_usage": "Build film catalogs, search engines or actor profiles."
+    },
+    {
+      "name": "PokeAPI",
+      "url": "https://pokeapi.co",
+      "free": "fully free",
+      "use": "Pokemon data",
+      "developer_usage": "Training projects, games or fun demo apps."
+    },
+    {
+      "name": "Open Meteo",
+      "url": "https://open-meteo.com",
+      "free": "fully free",
+      "use": "Weather forecast",
+      "developer_usage": "Provide simple weather data with no key needed."
+    },
+    {
+      "name": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Wikidata:Data_access",
+      "free": "fully free",
+      "use": "Knowledge base with millions of facts",
+      "developer_usage": "Build search engines, knowledge graphs or fact explorers."
+    },
+    {
+      "name": "GitHub API",
+      "url": "https://docs.github.com/en/rest",
+      "free": "fully free",
+      "use": "Repositories and user data",
+      "developer_usage": "Automate repos, show stats, build dev dashboards."
+    },
+    {
+      "name": "ExchangeRate.host",
+      "url": "https://exchangerate.host",
+      "free": "fully free",
+      "use": "Currency exchange rates",
+      "developer_usage": "Make finance tools, converters or pricing apps."
+    }
+  ]
+}
